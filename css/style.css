@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color:  #ffffff;
+
+}
+
+/***********************************************Class Stylesheet*************************************************/
+.top-container {
+  margin: 50px auto;
+  background-color: hsl(0, 0%, 98%);
+  text-align: center;
+}
+
+.h2-top-container {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+}
+
+.h1-top-container {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.top-container-paragraph {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: hsl(229, 6%, 66%);
+}
+
+.team-builder {
+  width: 300px;
+  height: 250px;
+  background-color: #e6e6e6;
+  position: absolute;
+  left: 500px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 6px;
+  border-top: solid blue;
+}
+
+.team-builder-img {
+  position: absolute;
+  bottom: 10px;
+  left: 200px;
+}
+
+.paragraph-team-builder {
+  padding-top: 5px;
+}
+
+.supervisor {
+  width: 300px;
+  height: 250px;
+  background-color: #e6e6e6;
+  position: absolute;
+  left: 150px;
+  top: 400px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 6px;
+  border-top: solid red;
+}
+
+.supervisor-img {
+  position: absolute;
+  bottom: 10px;
+  left: 200px;
+}
+
+.paragraph-supervisor {
+  padding-top: 5px;
+}
+
+.calculator {
+  width: 300px;
+  height: 250px;
+  background-color: #e6e6e6;
+  position: absolute;
+  right: 150px;
+  top: 400px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 6px;
+  border-top: solid black;
+}
+
+.calculator-img {
+  position: absolute;
+  bottom: 10px;
+  left: 200px;
+}
+
+.paragraph-calculator {
+  padding-top: 5px;
+}
+
+.karma {
+  width: 300px;
+  height: 250px;
+  background-color: #e6e6e6;
+  position: absolute;
+  left: 500px;
+  top: 550px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 6px;
+  border-top: solid green;
+}
+
+.paragraph-karma {
+  padding-top: 5px;
+}
+
+.karma-img {
+  position: absolute;
+  bottom: 10px;
+  left: 200px;
+}
+
+
+.div-footer {
+  position: absolute;
+  left: 500px;
+  top: 900px;
+}
