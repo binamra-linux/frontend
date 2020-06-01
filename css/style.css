@@ -40,7 +40,7 @@ body {
   padding: 10px;
   font-family: 'Poppins', sans-serif;
   border-radius: 6px;
-  border-top: solid blue;
+  border-top: solid hsl(0, 78%, 62%);
 }
 
 .team-builder-img {
@@ -63,7 +63,7 @@ body {
   padding: 10px;
   font-family: 'Poppins', sans-serif;
   border-radius: 6px;
-  border-top: solid red;
+  border-top: solid hsl(180, 62%, 55%);
 }
 
 .supervisor-img {
@@ -86,7 +86,7 @@ body {
   padding: 10px;
   font-family: 'Poppins', sans-serif;
   border-radius: 6px;
-  border-top: solid black;
+  border-top: solid hsl(212, 86%, 64%);
 }
 
 .calculator-img {
@@ -109,7 +109,7 @@ body {
   padding: 10px;
   font-family: 'Poppins', sans-serif;
   border-radius: 6px;
-  border-top: solid green;
+  border-top: solid hsl(34, 97%, 64%);
 }
 
 .paragraph-karma {
